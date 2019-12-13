@@ -1,0 +1,4 @@
+Bin Id	Marker lineage	# genomes	# markers	# marker sets	0	1	2	3	4	5+	Completeness	Contamination	Strain heterogeneity
+sample2_maxbin_1	g__Streptococcus (UID684)	26	668	229	1	666	1	0	0	0	99.89	0.15	0.00
+sample2_maxbin_2	g__Mycoplasma (UID2426)	42	258	138	4	254	0	0	0	0	97.83	0.00	0.00
+sample2_metabat_2_sub	f__Mycoplasmataceae (UID2466)	36	295	140	7	288	0	0	0	0	96.90	0.00	0.00
